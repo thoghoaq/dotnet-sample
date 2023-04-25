@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\thoang5_mantu\\source\\repos\\FirstConsoleApp\\FirstWebMVC\\FirstWebMVC.csproj": {}
+    "C:\\Users\\thoang5_mantu\\source\\repos\\DotnetSample\\FirstWebMVC\\FirstWebMVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\thoang5_mantu\\source\\repos\\FirstConsoleApp\\FirstWebMVC\\FirstWebMVC.csproj": {
+    "C:\\Users\\thoang5_mantu\\source\\repos\\DotnetSample\\FirstWebMVC\\FirstWebMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\thoang5_mantu\\source\\repos\\FirstConsoleApp\\FirstWebMVC\\FirstWebMVC.csproj",
+        "projectUniqueName": "C:\\Users\\thoang5_mantu\\source\\repos\\DotnetSample\\FirstWebMVC\\FirstWebMVC.csproj",
         "projectName": "FirstWebMVC",
-        "projectPath": "C:\\Users\\thoang5_mantu\\source\\repos\\FirstConsoleApp\\FirstWebMVC\\FirstWebMVC.csproj",
+        "projectPath": "C:\\Users\\thoang5_mantu\\source\\repos\\DotnetSample\\FirstWebMVC\\FirstWebMVC.csproj",
         "packagesPath": "C:\\Users\\thoang5_mantu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\thoang5_mantu\\source\\repos\\FirstConsoleApp\\FirstWebMVC\\obj\\",
+        "outputPath": "C:\\Users\\thoang5_mantu\\source\\repos\\DotnetSample\\FirstWebMVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\thoang5_mantu\\AppData\\Roaming\\NuGet\\NuGet.Config",

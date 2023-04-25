@@ -10306,11 +10306,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\thoang5_mantu\\source\\repos\\FirstConsoleApp\\FirstWebAPI\\FirstWebAPI.csproj",
+      "projectUniqueName": "C:\\Users\\thoang5_mantu\\source\\repos\\DotnetSample\\FirstWebAPI\\FirstWebAPI.csproj",
       "projectName": "FirstWebAPI",
-      "projectPath": "C:\\Users\\thoang5_mantu\\source\\repos\\FirstConsoleApp\\FirstWebAPI\\FirstWebAPI.csproj",
+      "projectPath": "C:\\Users\\thoang5_mantu\\source\\repos\\DotnetSample\\FirstWebAPI\\FirstWebAPI.csproj",
       "packagesPath": "C:\\Users\\thoang5_mantu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\thoang5_mantu\\source\\repos\\FirstConsoleApp\\FirstWebAPI\\obj\\",
+      "outputPath": "C:\\Users\\thoang5_mantu\\source\\repos\\DotnetSample\\FirstWebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\thoang5_mantu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -10327,11 +10327,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\thoang5_mantu\\source\\repos\\FirstConsoleApp\\BusinessLayer\\BusinessLayer.csproj": {
-              "projectPath": "C:\\Users\\thoang5_mantu\\source\\repos\\FirstConsoleApp\\BusinessLayer\\BusinessLayer.csproj"
+            "C:\\Users\\thoang5_mantu\\source\\repos\\DotnetSample\\BusinessLayer\\BusinessLayer.csproj": {
+              "projectPath": "C:\\Users\\thoang5_mantu\\source\\repos\\DotnetSample\\BusinessLayer\\BusinessLayer.csproj"
             },
-            "C:\\Users\\thoang5_mantu\\source\\repos\\FirstConsoleApp\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "C:\\Users\\thoang5_mantu\\source\\repos\\FirstConsoleApp\\DataAccess\\DataAccess.csproj"
+            "C:\\Users\\thoang5_mantu\\source\\repos\\DotnetSample\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "C:\\Users\\thoang5_mantu\\source\\repos\\DotnetSample\\DataAccess\\DataAccess.csproj"
             }
           }
         }

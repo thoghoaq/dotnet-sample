@@ -2018,11 +2018,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\thoang5_mantu\\source\\repos\\FirstConsoleApp\\DataAccess\\DataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\thoang5_mantu\\source\\repos\\DotnetSample\\DataAccess\\DataAccess.csproj",
       "projectName": "DataAccess",
-      "projectPath": "C:\\Users\\thoang5_mantu\\source\\repos\\FirstConsoleApp\\DataAccess\\DataAccess.csproj",
+      "projectPath": "C:\\Users\\thoang5_mantu\\source\\repos\\DotnetSample\\DataAccess\\DataAccess.csproj",
       "packagesPath": "C:\\Users\\thoang5_mantu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\thoang5_mantu\\source\\repos\\FirstConsoleApp\\DataAccess\\obj\\",
+      "outputPath": "C:\\Users\\thoang5_mantu\\source\\repos\\DotnetSample\\DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\thoang5_mantu\\AppData\\Roaming\\NuGet\\NuGet.Config",
